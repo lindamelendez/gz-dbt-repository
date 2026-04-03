@@ -30,4 +30,5 @@ select
 
 )
 
-select * from margin_per_product
+select * 
+ from margin_per_product
